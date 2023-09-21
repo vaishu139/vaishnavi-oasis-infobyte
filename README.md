@@ -1,2 +1,2 @@
-# vaishnavi-oasis-infobyte
+# oasis-infobyte
 Oasis_Infobyte
